@@ -1,4 +1,4 @@
-class Main {
+class Introduccion {
   public static void main(String[] args) {
 
     // // Variables numericas
